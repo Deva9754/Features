@@ -14,10 +14,13 @@ function App() {
       <Menu />
       <Card />
       <ToggleSwitch />
+
       <CircularLink />
-      <CreativeNavbar />
       <Carousel />
+      <CreativeNavbar />
+
       <Loader />
+
       <Emailvalidation />
     </div>
   );
