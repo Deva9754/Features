@@ -3,8 +3,8 @@ import "./Menu.css";
 const Menu = () => {
   return (
     <>
-      <div className="container">
-        <nav className="nav">
+      <div className="container-tab">
+        <nav className="tab-navbar">
           <input type="checkbox" id="menu" />
           <label for="menu">Menu</label>
           <ul className="menu">
