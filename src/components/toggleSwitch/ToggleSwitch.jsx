@@ -3,9 +3,8 @@ import "./ToggleSwitch.css";
 const ToggleSwitch = () => {
   return (
     <div>
-      <h2>Toggle</h2>
-      <input type="checkbox" />
-      <input type="checkbox" style={{ "--s": "60px" }} />
+      <input type="checkbox" className="toggle" />
+      <input type="checkbox" style={{ "--s": "60px" }} className="toggle" />
     </div>
   );
 };
