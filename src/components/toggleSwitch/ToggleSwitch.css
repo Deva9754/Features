@@ -1,4 +1,4 @@
-input {
+.toggle {
     --s:40px;
 
     height: var(--s);
@@ -18,7 +18,7 @@ input {
     -moz-appearance: none;
     appearance: none;
 }
-input:checked{
+.toggle:checked{
     --_c:#7ab4fffa;
     --_p:100%;
     transform-origin: calc(100% - 3*var(--s)/5) 50%;
