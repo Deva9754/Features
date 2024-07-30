@@ -19,7 +19,7 @@
 
 }
 h2{
-    color: white;
+    color: black;
 }
 .links{
     --link-size:calc(var(--base-grid)*20);
