@@ -16,15 +16,11 @@ function App() {
       <Menu />
       <Card />
       <ToggleSwitch />
-
       <CircularLink />
       <Carousel />
       <CreativeNavbar />
-
       <Loader />
-
       <Emailvalidation />
-
       <Dropdown />
       {/* <ProductCard /> */}
     </div>
