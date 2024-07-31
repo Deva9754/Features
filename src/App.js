@@ -7,6 +7,7 @@ import CreativeNavbar from "./components/creativeNavbar/Creative";
 import Dropdown from "./components/dropDown-darkLight/Dropdown";
 import Emailvalidation from "./components/email-validation/Email";
 import Loader from "./components/loaderBlur/Loader";
+// import ProductCard from "./components/product-card/ProductCard";
 import ToggleSwitch from "./components/toggleSwitch/ToggleSwitch";
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
       <Emailvalidation />
 
       <Dropdown />
+      {/* <ProductCard /> */}
     </div>
   );
 }
