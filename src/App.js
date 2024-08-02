@@ -22,7 +22,6 @@ function App() {
       <Loader />
       <Emailvalidation />
       <Dropdown />
-      {/* <ProductCard /> */}
     </div>
   );
 }
